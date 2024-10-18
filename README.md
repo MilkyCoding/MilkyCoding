@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm WarmyxPro</h1>
-<h3 align="center">Science student from Russia</h3>
+<h1 align="center">Hi 👋, I'm MilkyCoding</h1>
+<h3 align="center">IT student from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warmyxpro&label=Profile%20views&color=0e75b6&style=plastic" alt="warmyxpro" /> </p>
 
-- 🌱 I’m currently coding **WHITENET**
+- 🌱 I’m currently coding **nothing. lol.**
 
-- 📫 How to reach me **https://t.me/warmmonky**
+- 📫 How to reach me **https://t.me/milkycoding**
 
 - ⚡ Fun fact **I think I'm funny =>**
 

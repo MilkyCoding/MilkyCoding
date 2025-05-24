@@ -2,10 +2,6 @@
   <img src="https://i.postimg.cc/RZmTY3p8/Milky-Coding-Banner.png" alt="Banner" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://i.postimg.cc/RZmTY3p8/Milky-Coding-Banner.png " alt="Banner" width="100%" />
-</div>
-
 <br />
 
 <h1 align="center">🚀 MilkyCoding — Профессиональная разработка под ключ</h1>
